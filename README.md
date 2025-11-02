@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">Hey 👋! I'm Ridwanul Azim and I'm a Fullstack Developer from Bangladesh. Currently learning Typescript and SQL. Here I'll document my  learnings and projects. Let's Connect!! <br><br>Willing to collaborate on Interactive Web Animations & React Projects.<br>Ask me about React, GSAP, and UI/UX animation<br><br>All of my projects are available at <br>[https://ridwanul-dev.netlify.app/](https://ridwanul-dev.netlify.app/)</h2>
+<h2 align="left">Hey 👋! I'm Ridwanul Azim and I'm a Fullstack Developer from Bangladesh. Currently learning Typescript and SQL. Here I'll document my  learnings and projects. Let's Connect!! <br><br>Willing to collaborate on Interactive Web Animations & React Projects.<br>Ask me about React, GSAP, and UI/UX animation<br><br>All of my projects are available at <br>[https://ridwanul-dev.netlify.app/]</h2>
 
 ###
 
