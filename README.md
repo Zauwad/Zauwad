@@ -7,7 +7,7 @@
 <img align="right" height="150" src="https://64.media.tumblr.com/cdf46a0929716124b0c2f629c64f3a01/f108c562d2af8aed-ec/s400x600/c7c0c626f79360e40ae737b702c42a913afca01a.gif"  />
 
 ###
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=35&pause=1000&color=F7F7F7&width=435&lines=Hey+%F0%9F%91%8B!+I'm+Ridwanul+Azim)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F7F7F7&width=435&lines=Hey%F0%9F%91%8B!+I'm+Ridwanul)](https://git.io/typing-svg)
 
 <h2 align="left">A Fullstack Developer from Bangladesh. Currently learning Typescript and SQL. Here I'll document my  learnings and projects. Let's Connect!! <br><br>Willing to collaborate on Interactive Web Animations & React Projects.<br>Ask me about React, GSAP, and UI/UX animation<br><br>All of my projects are available at <br>[https://ridwanul-dev.netlify.app/]</h2>
 
