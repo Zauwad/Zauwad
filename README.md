@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="150" src="https://s2.ezgif.com/tmp/ezgif-2410c16e0434f7.gif"  />
+<img align="right" height="150" src="https://raw.githubusercontent.com/gist/brudnak/32733920b48d8aac9df7f20ffe375383/raw/fc87e0b765992a16210fd76e3efb6a36c9c42641/bongo-cat.gif"  />
 
 ###
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=35&pause=1000&color=F7F7F7&width=435&lines=Hey+%F0%9F%91%8B!+I'm+Ridwanul+Azim)](https://git.io/typing-svg)
