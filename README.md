@@ -17,7 +17,7 @@
 
 ###
 
-<div align="left">
+<!--<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -47,7 +47,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-</div>
+</div>-->
+
+![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=3&width=1000&theme=monokai&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF&line1=html5%2Chtml5%2CE34F26%3Bcss%2Ccss%2C663399%3Btailwindcss%2Ctailwindcss%2C06B6D4%3Breact%2Creact%2C61DAFB%3Bnext.js%2Cnext.js%2Cffffff%3Bjavascript%2Cjavascript%2CF7DF1E%3Btypescript%2Ctypescript%2C3178C6%3Bpython%2Cpython%2C3776AB%3B&line2=node.js%2Cnode.js%2C5FA04E%3Bexpress%2Cexpress%2C000000%3Bmongodb%2Cmongodb%2C47A248%3Bfirebase%2Cfirebase%2CDD2C00%3Bgsap%2Cgsap%2C0AE448%3Bshadcnui%2Cshadcnui%2C000000%3Bdaisyui%2Cdaisyui%2CFFC63A%3Bmui%2Cmui%2C007FFF%3B&line3=git%2Cgit%2CF05032%3Bpostman%2Cpostman%2CFF6C37%3B)
+
+
+
 
 ###
 
@@ -56,7 +61,7 @@
 ###
 
 <div align="left">
-  <a href="mailto:someone@example.com?subject=Inquiry from github" target="_blank">
+  <a href="mailto:redwanulazimzawad@gmail.com?subject=Inquiry from github" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/ridwanul-azim-zawad/" target="_blank">
